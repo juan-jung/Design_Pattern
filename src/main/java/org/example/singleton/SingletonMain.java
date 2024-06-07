@@ -1,10 +1,6 @@
-package org.example;
+package org.example.singleton;
 
-import org.example.singleton.AClazz;
-import org.example.singleton.BClaszz;
-import org.example.singleton.SocketClient;
-
-public class Main {
+public class SingletonMain {
     public static void main(String[] args) {
 
         AClazz aClazz = new AClazz();
