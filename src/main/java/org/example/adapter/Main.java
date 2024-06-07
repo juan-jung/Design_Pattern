@@ -11,7 +11,6 @@ public class Main {
         connect(adapter);
     }
 
-    //ㅇ
     public static void connect(Electronic110V electronic110V) {
         electronic110V.powerOn();
     }
